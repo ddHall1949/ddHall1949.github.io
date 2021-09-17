@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - pages-1.0.0.tgz
+    - https://ddhall1949.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2021-09-17T15:48:17.781562932+01:00"
